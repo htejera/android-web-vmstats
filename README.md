@@ -40,6 +40,7 @@ Yes and yes but for Android vmstats.
 ## Contribution
 
 Any ideas are welcome. Feel free to submit any issues or pull requests.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ---
 **android-web-vmstats** is developed and maintained by [Mobilebox](http://mobileboxlab.com) team.
