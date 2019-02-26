@@ -4,6 +4,8 @@ Plot real time Android CPU/Mem stats to a dashboard using websocketd and vmstat
 
 Based on [Web vmstats](https://github.com/joewalnes/web-vmstats)
 
+![vmstats](https://github.com/mobileboxlab/android-web-vmstats/blob/master/img/vmstat.gif?raw=true)
+
 ## Requirements
 
 1. bash, any recent version should work
