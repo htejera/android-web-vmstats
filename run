@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Download websocketd for your platform from
+# https://github.com/joewalnes/websocketd/wiki/Download-and-install
+
+websocketd --port=9231 --staticdir=web adb -s $1 shell vmstat -n 1
