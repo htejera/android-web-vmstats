@@ -1,4 +1,7 @@
-# Android web vmstats
+
+![charly](http://open.mobileboxlab.com/img/vmstats.gif)
+
+___
 
 Plot real time Android CPU/Mem stats to a dashboard using websocketd and vmstat
 
