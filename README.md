@@ -1,5 +1,5 @@
 
-![charly](http://open.mobileboxlab.com/img/vmstats.gif)
+![charly](http://open.mobileboxlab.com/img/android-vmstats.gif)
 
 ___
 
